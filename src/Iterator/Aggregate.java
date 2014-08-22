@@ -1,5 +1,6 @@
 package Iterator;
 
 public interface Aggregate{
-    public Iterator iterator();
-  }
+
+	public Iterator iterator();
+}

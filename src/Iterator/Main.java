@@ -8,8 +8,7 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
 		VeteranTeacher you = new VeteranTeacher();
-        you.createStudentList();
-        you.callStudents();
+		you.createStudentList();
+		you.callStudents();
 	}
-
 }

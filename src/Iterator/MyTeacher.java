@@ -15,9 +15,9 @@ public class MyTeacher extends Teacher {
 
 	public void callStudents() {
 		// TODO 自動生成されたメソッド・スタブ
-		 int size = list.getLastNum();
-	        for(int n = 0 ;n<size ;n++){
-	            System.out.println(list.getStudentAt(n).getName());
-	        }
+		int size = list.getLastNum();
+		for(int n = 0 ;n<size ;n++){
+			System.out.println(list.getStudentAt(n).getName());
+		}
 	}
 }
